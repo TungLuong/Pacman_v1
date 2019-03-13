@@ -1,3 +1,3 @@
 # Pacman_v1
 game pacman 
-![](https://photos.app.goo.gl/QpWsaPrk9QqduJTx7)
+![alt text](https://photos.app.goo.gl/QpWsaPrk9QqduJTx7)
